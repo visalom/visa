@@ -1,0 +1,3 @@
+# visa
+Disciplinat
+Mind
